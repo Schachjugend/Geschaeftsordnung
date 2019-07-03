@@ -25,7 +25,7 @@ lung um, entwickelt im Rahmen der Jugendordnung und des Haushalts unter Beachtun
 
 	b) Die Arbeitskreise werden von dem jeweils zuständigen Vorstandsmitglied als ihrem Vorsitzenden geleitet. Der Arbeitskreisvorsitzende koordiniert die in seinem Aufgabenbereich anfallenden Arbeiten zwischen den Arbeitskreismitgliedern. Er ist an Beschlüsse der Jugendversammlung und des Vorstandes gebunden und ihnen gegenüber verantwortlich für seinen Aufgabenbereich; dies gilt auch hinsichtlich der Tätigkeit der weiteren Arbeitskreismitglieder.
 
-	c) Soweit es zur Erfüllung der in dem jeweiligen Aufgabengebiet anfallenden Arbeiten erforderlich ist, beruft der Vorstand für die Dauer eines Jahres auf  Vorschlag der Arbeitskreisvorsitzenden die weiteren Mitglieder des jeweiligen Arbeitskreises. Vor der Konstituierung des Arbeitskreises sind die Landesverbände zu hören und ist ihnen Gelegenheit zu geben, eigene Vorschläge einzureichen.
+	c) Soweit es zur Erfüllung der in dem jeweiligen Aufgabengebiet anfallenden Arbeiten erforderlich ist, beruft der Vorstand für die Dauer eines Jahres auf  Vorschlag der Arbeitskreisvorsitzenden die weiteren Mitglieder des jeweiligen Arbeitskreises. Vor der Konstituierung des Arbeitskreises sind die Landesverbände zu hören und ist ihnen Gelegenheit zu geben, eigene Vorschläge einzureichen. Arbeitskreismitglieder können mit Zwei-Drittel-Mehrheit vom Vor- stand abberufen werden.
 
 	
 	d) Die Arbeit der Arbeitskreise geschieht in der Regel schriftlich. Bei Bedarf kann
