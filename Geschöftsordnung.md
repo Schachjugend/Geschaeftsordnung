@@ -85,7 +85,7 @@ spezielle Aufgaben des Spielbetriebs übertragen werden können.
 
 1. Durch Vorstandsbeschluss können dem Geschäftsführer Aufgaben in den Arbeitskreisen übertragen werden.
 
-1. Der DSJ-Geschäftsführer und andere hauptamtliche Mitarbeiter der DSJ können nicht gleichzeitig ein Ehrenamt auf DSJ-Ebene ausüben.
+1. Der DSJ-Geschäftsführer und andere hauptamtliche Mitarbeiter der DSJ können nicht gleichzeitig ein Vorstandsamt auf DSJ-Ebene ausüben. Sie können als Beauftragte eingesetzt werden, andere Ehrenämter können sie ohne Stimmrecht ausüben.
 
 ## 5 Sitzungsordnung
 
