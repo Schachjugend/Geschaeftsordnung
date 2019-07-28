@@ -20,30 +20,20 @@ lung um, entwickelt im Rahmen der Jugendordnung und des Haushalts unter Beachtun
 
 1. 
 	a) Zur Unterstützung des Vorstandes und zur 	Erfüllung seiner Aufgaben werden
-	die Arbeitskreise Allgemeine Jugendarbeit, 	Öffentlichkeitsarbeit, Schulschach
+	die Arbeitskreise Mädchenschach, Allgemeine Jugendarbeit, 	Öffentlichkeitsarbeit, Schulschach
 	und Spielbetrieb eingerichtet. Ihre Aufgaben sind 	unter § 3 näher beschrieben.
 
 	b) Die Arbeitskreise werden von dem jeweils zuständigen Vorstandsmitglied als ihrem Vorsitzenden geleitet. Der Arbeitskreisvorsitzende koordiniert die in seinem Aufgabenbereich anfallenden Arbeiten zwischen den Arbeitskreismitgliedern. Er ist an Beschlüsse der Jugendversammlung und des Vorstandes gebunden und ihnen gegenüber verantwortlich für seinen Aufgabenbereich; dies gilt auch hinsichtlich der Tätigkeit der weiteren Arbeitskreismitglieder.
 
-	c) Soweit es zur Erfüllung der in dem jeweiligen Aufgabengebiet anfallenden Arbeiten erforderlich ist, beruft der Vorstand für die Dauer der Amtszeit des be-
-	treffenden Arbeitskreisvorsitzenden auf dessen Vorschlag die weiteren Mitglieder des jeweiligen Arbeitskreises. Vor der Konstituierung des Arbeitskreises sind die Landesverbände zu hören und ist ihnen Gelegenheit zu geben, eigene Vorschläge einzureichen.
+	c) Soweit es zur Erfüllung der in dem jeweiligen Aufgabengebiet anfallenden Arbeiten erforderlich ist, beruft der Vorstand für die Dauer eines Jahres auf  Vorschlag der Arbeitskreisvorsitzenden die weiteren Mitglieder des jeweiligen Arbeitskreises. Vor der Konstituierung des Arbeitskreises sind die Landesverbände zu hören und ist ihnen Gelegenheit zu geben, eigene Vorschläge einzureichen. Arbeitskreismitglieder können mit Zwei-Drittel-Mehrheit vom Vor- stand abberufen werden.
 
-	Allen Arbeitskreismitgliedern wird ein bestimmtes Sachgebiet zur Bearbeitung
-	übertragen. Arbeitskreismitglieder können mit Zwei-Drittel-Mehrheit vom Vor-
-	stand abberufen werden.
-
+	
 	d) Die Arbeit der Arbeitskreise geschieht in der Regel schriftlich. Bei Bedarf kann
-	der Arbeitskreisvorsitzende mit Genehmigung des Vorstandes Sitzungen einbe-
-	rufen. Die Einladung mit Tagesordnung ist allen Vorstandsmitgliedern zur
-	Kenntnis zu bringen. Der 1. Vorsitzende oder die stellvertretenden Vorsitzenden
-	sowie der Mädchenreferent und die Jugendsprecher haben das Recht, an allen
-	Arbeitskreissitzungen teilzunehmen.
+	der Arbeitskreisvorsitzende mit Genehmigung des Vorstandes Sitzungen einberufen. Die Einladung mit Tagesordnung ist allen Vorstandsmitgliedern zur Kenntnis zu bringen. Der 1. Vorsitzende oder die stellvertretenden Vorsitzenden sowie der Mädchenreferent und die Jugendsprecher haben das Recht, an allen Arbeitskreissitzungen teilzunehmen.
 
-1. Die Jugendversammlung ernennt analog zur Wahlperiode des Nationalen Spiel-
-leiters einen Beauftragten für Leistungssport, dessen Aufgaben in §3 dieser Ge-
-schäfttsordnung festgelegt sind..
+1. Die Jugendversammlung ernennt in den Jahren mit ungerader Endziffer für die Dauer von 2 Jahren einen Beauftragten für Leistungssport, dessen Aufgaben in §3 dieser Geschäfttsordnung festgelegt sind.
 
-1. Die Jugendversammlung ernennt analog zur Wahlperiode des Nationalen Spielleiters einen Beauftragten für Dopingbekämpfung und -prävention, dessen Aufgaben in § 3 dieser Geschäftsordnung festgelegt sind.
+1. Die Jugendversammlung ernennt in den Jahren mit ungerader Endziffer für die Dauer von 2 Jahren einen Beauftragten für Dopingbekämpfung und -prävention, dessen Aufgaben in § 3 dieser Geschäftsordnung festgelegt sind.
 
 1. Die Jugendversammlung und der Vorstand können zur Erfüllung besonderer Aufgaben Fachausschüsse einrichten sowie Projektgruppen und weitere Beauftragte einsetzen. Zuständigkeit, Aufgaben und Amtsdauer sind mit der Einsetzung festzulegen. Über Zweifelsfragen entscheidet der Vorstand.
 
@@ -59,23 +49,22 @@ ihnen bestimmte Sachgebiete zur dauernden selbstständigen Bearbeitung übertrag
 1. Der Finanzreferent nimmt alle finanziellen Belange der DSJ nach Maßgabe der Finanzordnung wahr. Er überwacht die Einhaltung des Haushaltsplans und berät den Vorstand und den Geschäftsführenden Vorstand in allen Fragen mit finanziellen Auswirkungen.
 
 
-1. Der Mädchenreferent ist zuständig für alle Belange des Mädchenschachs. Er entwickelt Initiativen zur allgemeinen Förderung des Mädchenschachs auf allen Ebe-
-nen. Zur Erfüllung seiner Aufgaben hat er in allen Arbeitskreisen ein Mitwirkungsrecht.
+1. Der Mädchenreferent und der von ihm geleitete Arbeitskreis Mädchenschach sind zuständig für alle Belange des Mädchenschachs. Er entwickelt Initiativen zur allgemeinen Förderung des Mädchenschachs auf allen Ebe-
+nen. Zur Erfüllung seiner Aufgaben hat der Mädchenreferent in allen Arbeitskreisen ein Mitwirkungsrecht.
 
 1. Der Referent für Allgemeine Jugendarbeit und der von ihm geleitete Arbeitskreis für Allgemeine Jugendarbeit sind zuständig für die nicht leistungssportlich orien-
 tierte schachliche und außerschachliche Jugendarbeit der DSJ. Darunter fallen beispielsweise Maßnahmen im Breiten- und Freizeitsport, Maßnahmen zur Mitgliederwerbung, internationale Begegnungen, Maßnahmen zur politischen und kulturellen Bildung und Sport mit benachteiligten Gesellschaftsgruppen.
 
-1. Der Beauftragte für Leistungssport ist Mitglied im Arbeitskreis Spielbetrieb der DSJ und vertritt im Rahmen der „Konzeption zur Leistungssportförderung im Deutschen Schachbund“ die DSJ beim DSB als Mitglied im Technischen Ausschuss und in der Kommission Leistungssport.
+1. Der Beauftragte für Leistungssport vertritt im Rahmen der „Konzeption zur Leistungssportförderung im Deutschen Schachbund“ die DSJ beim DSB als Mitglied in der Kommission Leistungssport.
 
 1. Der Beauftragte für Dopingbekämpfung und -prävention bereitet die Dopingthematik jugend- und verbandsgerecht auf. In Absprache mit dem Vorstand pflegt er Kontakt mit dem DSB und der Nationalen Anti Doping Agentur (NADA). Er koordiniert in Kooperation mit dem Beauftragten des DSB und dem Turnierverantwortlichen
-Kontrollmaßnahmen im Bereich der DSJ. Die Verantwortlichkeit des Nationalen Spielleiters für Angelegenheiten des Spielbetriebs bleibt unberührt
+Kontrollmaßnahmen im Bereich der DSJ. Die Verantwortlichkeit der Nationalen Spielleiter für Angelegenheiten des Spielbetriebs bleibt unberührt
 
 1. Der Referent für Öffentlichkeitsarbeit und der von ihm geleitete Arbeitskreis für Öffentlichkeitsarbeit sind zuständig für die Pressearbeit der DSJ gegenüber der Schachpresse, der allgemeinen Presse und anderen Medien, für die Erstellung und Verbreitung eines Mitteilungsorgans der DSJ, für die Erstellung von Materialien für die Presse- und Öffentlichkeitsarbeit, für die Erstellung von Werbeträgern und für die Imagepflege der DSJ.
 
 1. Der Referent für Schulschach und der von ihm geleitete Arbeitskreis Schulschach sind zuständig für das gesamte Schulschach. Dazu zählen insbesondere die Förderung und Durchführung von Modellmaßnahmen für die Zusammenarbeit zwischen Schule und Verein, die Durchführung von Schulschachwettbewerben auf Bundesebene und die Durchführung von Fortbildungsmaßnahmen für Lehrer.
 
-1. Der Nationale Spielleiter und der von ihm geleitete Arbeitskreis Spielbetrieb sind zuständig für den gesamten Spielbetrieb der Jungen und Mädchen auf Bundesebene nach Maßgabe der DSJ-Spielordnung. Der Vorstand bestimmt drei Mitglieder des Arbeitskreises zum Spielaussschuss, dem durch Beschluss des Vorstands
-spezielle Aufgaben des Spielbetriebs übertragen werden können.
+1. Die Nationalen Spielleiter und der von ihnen geleitete Arbeitskreis Spielbetrieb sind zuständig für den gesamten Spielbetrieb der Jungen und Mädchen auf Bundesebene nach Maßgabe der DSJ-Spielordnung. Sie geben jährlich der Jugendversammlung bekannt, welcher der beiden jeweils zuständig für die Austragung der von der DSJ ausgeschriebenen Turniere ist. Der Vorstand bestimmt drei Mitglieder des Arbeitskreises zum Spielaussschuss, dem durch Beschluss des Vorstands und nach Maßgabe der DSJ-Spielordnung spezielle Aufgaben des Spielbetriebs übertragen werden können.
 
 1. Die Bundesjugendsprecher vertreten die Wünsche und Interessen der jugendlichen Schachspieler. Sie haben das Recht, jederzeit gegenüber allen Gremien der DSJ und deren Mitglieder Anregungen, Kritik und Beschwerden zu äußern. Förmliche Beschwerden müssen vom zuständigen Vorstandsmitglied schriftlich beschieden werden
 
@@ -104,7 +93,7 @@ spezielle Aufgaben des Spielbetriebs übertragen werden können.
 	
 1. Versammlungsleiter
 
-	Die Leitung der Jugendversammlung obliegt einem zweiköpfigen Tagungspräsidium, das vom Vorstand der DSJ vorgeschlagen und von der Jugendversammlung genehmigt wird. Vorstandssitzungen werden vom 1. Vorsitzenden der DSJ oder seinem Vertreter geleitet.
+	Die Leitung der Jugendversammlung obliegt einem Tagungsleiter, der vom Vorstand der DSJ vorgeschlagen und von der Jugendversammlung genehmigt wird. Vorstandssitzungen werden vom 1. Vorsitzenden der DSJ oder seinem Vertreter geleitet.
 
 1. Eröffnung und Tagesordnung
 
@@ -127,7 +116,6 @@ spezielle Aufgaben des Spielbetriebs übertragen werden können.
 	b) Wortmeldungen erfolgen durch Handzeichen und sind in einer Rednerliste festzuhalten.
 	
 	c) Die Reihenfolge der Redner richtet sich nach der Rednerliste, doch kann der Versammlungsleiter eine andere Reihenfolge bestimmen, wenn dies sachdienlich erscheint. Antragsteller und Berichterstatter können sowohl zu Beginn als auch am Ende der Beratung das Wort verlangen.
-	
 	
 	d) Zur Geschäftsordnung muss das Wort jederzeit gegeben werden, doch darf eine Rede nicht unterbrochen werden. Die Bemerkung zur Geschäftsordnung darf nicht länger als zwei Minuten dauern.
 	
