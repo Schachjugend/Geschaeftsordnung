@@ -1,6 +1,6 @@
 # Geschäftsordnung der Deutschen Schachjugend
 
-Dieses Git-Repository enthält die Geschäftsordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format. 
+Dieses Git-Repository enthält die Geschäftsordnung der [Deutschen Schachjugend](http://deutsche-schachjugend.de) im [Markdown](http://daringfireball.net/projects/markdown/syntax)-Format.
 
 # Warum Git und Markdown?
 
