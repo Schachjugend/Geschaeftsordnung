@@ -1,6 +1,6 @@
 # Geschäftsordnung der Deutschen Schachjugend
 
-**Stand 2009**
+**Stand 2019**
 
 ## 1 Inhalt
 
@@ -170,6 +170,6 @@ Kontrollmaßnahmen im Bereich der DSJ. Die Verantwortlichkeit der Nationalen Spi
 
 1. Erforderliche Änderungen der Geschäftsordnung bedürfen eines Mehrheitsbeschlusses der Jugendversammlung.
 
-*Letzte Änderungen durch die Jugendversammlung 2009 in Passau*
+*Letzte Änderungen durch die Jugendversammlung 2019 in Potsdam*
 
 
