@@ -32,7 +32,7 @@ an Beschlüsse der Jugendversammlung und des Vorstandes gebunden und ihnen gegen
 (7) Zur Entwicklung von langfristigen Strategien für die Jugendarbeit als Gesamtes oder für einzelne Teilbereiche der Jugendarbeit sowie zum intensiven Meinungsaustausch sollen regelmäßig Strategietagungen, Workshops oder Themenwerkstätten
 stattfinden, zu denen der Vorstand Vertreter der Landesverbände einlädt. Der Vorstand hat das Recht, zu diesen Veranstaltungen auch Vertreter der übrigen Ebenen der Jugendarbeit und aus anderen Organisationen einzuladen.
 
-#### § 3 Berufung von Arbeitskreismitgliedern und von bestimmten Beauftragten
+#### § 3 Berufung von Arbeitskreismitgliedern, bestimmten Beauftragten und Kommissionsmitgliedern.
 (1) Soweit es zur Erfüllung der in dem jeweiligen Aufgabengebiet anfallenden Arbeiten erforderlich ist, beruft der Vorstand für die Dauer eines Jahres auf Vorschlag der Arbeitskreisvorsitzenden die weiteren Mitglieder des jeweiligen Arbeitskreises. Vor der Konstituierung des Arbeitskreises sind die Landesverbände zu hören und ist ihnen Gelegenheit zu geben, eigene Vorschläge einzureichen. Arbeitskreismitglieder können mit Zwei-Drittel-Mehrheit vom Vorstand abberufen werden.
 
 (2) Die Jugendversammlung ernennt in den Jahren mit ungerader Endziffer für die Dauer von 2 Jahren einen Beauftragten für Leistungssport, dessen Aufgaben in § 4 festgelegt sind.
@@ -46,7 +46,7 @@ stattfinden, zu denen der Vorstand Vertreter der Landesverbände einlädt. Der V
 
 Ihre Aufgaben sind in § 4 festgelegt.
 
-#### § 4 Aufgabenbereiche der Vorstandsmitglieder, der Beauftragten und der Arbeitskreise
+#### § 4 Aufgabenbereiche
 (1) Der 1. Vorsitzende vertritt die DSJ nach außen, insbesondere gegenüber dem Deutschen Schachbund, der Deutschen Sportjugend und gegenüber Jugendvertretern ausländischer Schachföderationen. Er hat die Stellung eines gesetzlichen Vertreters i.S.v. § 26 Abs. 2
 BGB. Er ergreift die Initiative hinsichtlich der Vorhaben der DSJ und koordiniert die Tätigkeit der Mitglieder des Vorstands und der sonstigen Mitarbeiter der DSJ. In Eilfällen trifft er vorläufige Maßnahmen und entscheidet an Stelle des Vorstandes und des Geschäftsführenden Vorstands, wenn eine Entscheidung des Geschäftsführenden Vorstands nicht rechtzeitig herbeigeführt werden kann.
 
