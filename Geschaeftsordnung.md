@@ -1,6 +1,6 @@
 # Geschäftsordnung der Deutschen Schachjugend
 
-**Stand 22.08.2020**
+**Stand 31.01.2021**
 
 #### § 1 Inhalt
 
@@ -39,7 +39,12 @@ stattfinden, zu denen der Vorstand Vertreter der Landesverbände einlädt. Der V
 
 (3) Die Jugendversammlung ernennt in den Jahren mit ungerader Endziffer für die Dauer von 2 Jahren einen Beauftragten für Dopingbekämpfung und -prävention, dessen Aufgaben in § 4 festgelegt sind.
 
-(4) Der Vorstand ernennt in den Jahren, in denen ein ordentlicher Kongress des Deutschen Schachbundes stattfindet, drei Mitglieder der Gemeinsamen Kommission DSB und DSJ.
+(4) Für die Gemeinsame Kommission DSB und DSJ werden in den Jahren mit ungerader Endziffer ernannt
+
+1. zwei Mitglieder durch den Vorstand und
+2. ein Mitglied durch die Jugendversammlung. 
+
+Ihre Aufgaben sind in § 4 festgelegt.
 
 #### § 4 Aufgabenbereiche der Vorstandsmitglieder, der Beauftragten und der Arbeitskreise
 (1) Der 1. Vorsitzende vertritt die DSJ nach außen, insbesondere gegenüber dem Deutschen Schachbund, der Deutschen Sportjugend und gegenüber Jugendvertretern ausländischer Schachföderationen. Er hat die Stellung eines gesetzlichen Vertreters i.S.v. § 26 Abs. 2
@@ -64,6 +69,8 @@ BGB. Er ergreift die Initiative hinsichtlich der Vorhaben der DSJ und koordinier
 (10) Die Nationalen Spielleiter und der von ihnen geleitete Arbeitskreis Spielbetrieb sind zuständig für den gesamten Spielbetrieb der Jungen und Mädchen auf Bundesebene nach Maßgabe der DSJ-Spielordnung. Sie geben jährlich der Jugendversammlung bekannt, welcher der beiden jeweils zuständig für die Austragung der von der DSJ ausgeschriebenen Turniere ist. Der Vorstand bestimmt drei Mitglieder des Arbeitskreises zum Spielausschuss, dem durch Beschluss des Vorstands und nach Maßgabe der DSJ-Spielordnung spezielle Aufgaben des Spielbetriebs übertragen werden können.
 
 (11) Die Bundesjugendsprecher vertreten die Wünsche und Interessen der jugendlichen Schachspieler. Sie haben das Recht, jederzeit gegenüber allen Gremien der DSJ und deren Mitgliedern Anregungen, Kritik und Beschwerden zu äußern. Förmliche Beschwerden müssen vom zuständigen Vorstandsmitglied schriftlich beschieden werden.
+
+(12) Die Mitglieder der Gemeinsamen Kommission DSB und DSJ vertreten die Interessen der Jugend in Abstimmung mit dem Vorstand und berücksichtigen dabei auch die Interessen der Landesschachjugenden.
 
 #### § 5 DSJ Geschäftsführer
 
@@ -148,6 +155,6 @@ Unterlagen und Materialien ihrem Nachfolger zu übergeben, ersatzweise dem 1. Vo
 #### § 8 Zustimmungsvorbehalt
 Sofern die Vorschrift in § 2 Absatz 5 oder diese Vorschrift geändert, ergänzt oder aufgehoben werden, bedarf dies der Zustimmung des DSB.
 
-*Beschlossen durch die Jugendversammlung am 22.08.2020 in Magdeburg*
+*Beschlossen durch die Jugendversammlung am 22.08.2020 in Magdeburg. Zuletzt geändert durch die digital durchgeführte Jugendversammlung am 31.01.2021.*
 
 
